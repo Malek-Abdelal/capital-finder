@@ -6,6 +6,6 @@
 
 ## Links 
 
-* Capital [link] (https://capital-finder-sepia.vercel.app/api/capital_finder?capital=Bern)
+* Capital [link](https://capital-finder-sepia.vercel.app/api/capital_finder?capital=Bern)
 
-* Country [link] (https://capital-finder-sepia.vercel.app/api/capital_finder?country=maldives)
+* Country [link](https://capital-finder-sepia.vercel.app/api/capital_finder?country=maldives)
