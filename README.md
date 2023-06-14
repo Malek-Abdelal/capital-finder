@@ -1,9 +1,11 @@
-# Project Name : capital-finder
+# Lab 16
 
-## Authors : Firas Awadallah,Moutaz AbuTaha,Ibraheem Feqasi,Mahdi Malkawi,Aiman Malkawi,Ibraheem Areeda,Malik Abdellal
+# Project Name : capital finder
 
-## Test 
+## Author : Malek Abdelal
 
-* For [Capital](https://capital-finder-sepia.vercel.app/api/capital_finder?capital=cairo)
+## Links 
 
-* For [Country](https://capital-finder-sepia.vercel.app/api/capital_finder?country=jordan)
+* [Capital] link(https://capital-finder-sepia.vercel.app/api/capital_finder?capital=Bern)
+
+* [Country] link(https://capital-finder-sepia.vercel.app/api/capital_finder?country=maldives)
